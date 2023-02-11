@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 2px;
+}
+
+
+
+
+
+.navbar {
+    display: flex;
+    /* width: 98.5%; */
+    justify-content: space-around;
+    /* position: fixed; */
+    /* background-color: red;
+    transition: 0.25s cubic-bezier(0.51, 0.03, 0.64, 0.28); */
+}
+
+/* .navbar.active {
+    visibility: visible;
+    transform: translateY(-100%); 
+    transition: 0.5s cubic-bezier(0.33, 0.85, 0.4, 0.96);
+} */
+
+
+.nav-2 {
+    margin: 0px;
+    padding: 1px;
+    list-style: none;
+
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+}
+
+.nav-2 TextField {
+    border-radius: 50px;
+}
